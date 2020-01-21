@@ -4,8 +4,11 @@
 // @description  Display all comic images at once.
 // @author       Emma (emma2334)
 // @match        *://www.dm5.com/m*
+// @match        *://m.dm5.com/m*
 // @exclude      *://www.dm5.com/manhua-*
+// @exclude      *://m.dm5.com/manhua-*
 // @exclude      *://www.dm5.com/m*-end/
+// @exclude      *://m.dm5.com/m*-end/
 // @match        *://tel.1kkk.com/ch*
 // @match        *://tel.1kkk.com/ep*
 // @match        *://tel.1kkk.com/other*
